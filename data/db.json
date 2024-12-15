@@ -1,0 +1,32 @@
+{
+	"fixed_bills": [
+		{
+			"id": 1,
+			"description": "Plano de sáude",
+			"value": 179.1,
+			"status": "-",
+			"period": "Indeterminado"
+		},
+		{
+			"id": 2,
+			"description": "Gasolina e Alimentação",
+			"value": 440,
+			"status": "-",
+			"period": "Indeterminado"
+		},
+		{
+			"id": 3,
+			"description": "Faculdade",
+			"value": 203.91,
+			"status": "-",
+			"period": "Indeterminado"
+		},
+		{
+			"id": 4,
+			"description": "Manutenção | Serra",
+			"value": 46.5,
+			"status": "-",
+			"period": "Indeterminado"
+		}
+	]
+}
